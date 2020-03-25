@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44248eca-3713-43c6-ba16-b90f4a2e2d69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585145512224</updated>
-      <workItem from="1585145514529" duration="12757000" />
+      <workItem from="1585145514529" duration="13232000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1585147036592</created>
@@ -145,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585159802184</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="setting structure">
+      <created>1585161033406</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585161033406</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,17 +156,18 @@
     <MESSAGE value="filter buttons b-strap" />
     <MESSAGE value="search panel" />
     <MESSAGE value="list items bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="list items bootstrap" />
+    <MESSAGE value="setting structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting structure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585146227997">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585146227997" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1585159801548">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1585161032387">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585159801548" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585161032387" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1585146940687">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

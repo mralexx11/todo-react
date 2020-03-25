@@ -4,7 +4,7 @@ const SearchPanel = () => {
     const searchStyle = {
         fontSize: '20px'
     };
-    return (<input style={searchStyle} type="text" placeholder='Type here to search'/>);
+    return (<input style={searchStyle} type="text" placeholder='Type to search'/>);
 };
 
 export default SearchPanel;

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44248eca-3713-43c6-ba16-b90f4a2e2d69" name="Default Changelist" comment="refactoring // one style">
+    <list default="true" id="44248eca-3713-43c6-ba16-b90f4a2e2d69" name="Default Changelist" comment="event onClick">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <updated>1585145512224</updated>
       <workItem from="1585145514529" duration="15264000" />
       <workItem from="1585222163664" duration="10000" />
-      <workItem from="1586276696946" duration="703000" />
+      <workItem from="1586276696946" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1585147036592</created>
@@ -162,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585161839433</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="event onClick">
+      <created>1586277503599</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586277503599</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,41 +188,42 @@
     <MESSAGE value="refactoring (todo-list-item) func -&gt; class" />
     <MESSAGE value="refactoring (item-status-filter) func -&gt; class" />
     <MESSAGE value="refactoring // one style" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring // one style" />
+    <MESSAGE value="event onClick" />
+    <option name="LAST_COMMIT_MESSAGE" value="event onClick" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585146227997">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585146227997" />
-    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1585166380871">
+    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1586277518917">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585166380871" />
+    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1586277518917" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1585146940687">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585146940687" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1585162025773">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1586277514130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585162025773" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1585162025772">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1586277514130" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1586277514130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585162025772" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1585162025772">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1586277514130" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1586277514130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585162025772" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1585162025772">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1586277514130" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1586277514130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585162025772" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1585166397850">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1586277514130" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1586277505502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1585166397850" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1586277505502" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585159382501">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
